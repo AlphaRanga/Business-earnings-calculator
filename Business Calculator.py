@@ -131,8 +131,7 @@ print("")
 print("Nice!")
 
 
-
-
+done = input("press enter if your done")
 
 
 
